@@ -1,4 +1,1 @@
-hello github.
-
-new line;
-good morning.
+hello github.good morning.
